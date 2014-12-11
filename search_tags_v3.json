@@ -28352,19 +28352,19 @@
 	{
         "id": "/ldp/3baeaa5d-36e2-4dd6-9032-5376b67850ef",
         "name": "Asia Market Report",
-        "altLabel": "",
+        "altLabel": "(Hang Seng, Nikkei 225)",
         "disambiguationHint": "BBC Business News daily report from the Asian markets"
     },    
 	{
         "id": "/ldp/09e42fcf-b1b5-415b-8333-f9499e976513",
         "name": "London Market Report",
-        "altLabel": "",
+        "altLabel": "(FTSE 100)",
         "disambiguationHint": "BBC Business News daily report from the UK and European markets"
     },    
 	{
         "id": "/ldp/92c1cf43-5624-45d1-a8fe-b0904b047794",
         "name": "Wall Street Market Report",
-        "altLabel": "",
+        "altLabel": "(Dow Jones, Nasdaq, S&P 500)",
         "disambiguationHint": "BBC Business News daily report from the US markets"
     },    
 	{
