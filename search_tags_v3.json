@@ -13919,11 +13919,8 @@
     {
         "id": "/ldp/ca170ae3-99c1-48db-9b67-2866f85e7342",
         "name": "Economy",
-        "altLabel": "",
-        "disambiguationHint": [
-            "production and consumption of goods/services and supply of money",
-            "the production, distribution or trade, and consumption of limited goods and services by different agents in a given geographical location"
-        ]
+        "altLabel": "Economics",
+        "disambiguationHint": "production and consumption of goods/services and supply of money"
     },
     {
         "id": "/ldp/5c0cd048-408c-444a-b783-8e12adedbe16",
@@ -16194,8 +16191,8 @@
     },
     {
         "id": "/ldp/fb8c1ad0-5565-408d-9c31-514ee0a26ee3",
-        "name": "BSkyB",
-        "altLabel": "British Sky Broadcasting",
+        "name": "Sky",
+        "altLabel": "Sky PLC",
         "disambiguationHint": "a British satellite broadcasting, broadband and telephony services company"
     },
     {
@@ -16292,13 +16289,13 @@
         "id": "/ldp/9dbb0043-eeb1-4b0d-9ae6-6ac0add89d9b",
         "name": "Sony",
         "altLabel": "",
-        "disambiguationHint": "a Japanese multinational conglomerate corporation headquartered in Kōnan Minato, Tokyo"
+        "disambiguationHint": "a Japanese multinational conglomerate corporation"
     },
     {
         "id": "/ldp/6719e889-460e-4f8f-b760-4cbe3d0b5890",
-        "name": "EADS (Airbus)",
-        "altLabel": "The European Aeronautic Defence and Space Company",
-        "disambiguationHint": "a global pan-European aerospace and defence corporation and a leading defence and military contractor worldwide"
+        "name": "Airbus",
+        "altLabel": "",
+        "disambiguationHint": "a global pan-European aerospace and defence corporation"
     },
     {
         "id": "/ldp/7c11c0ee-1644-4012-be57-fd1f746f101a",
@@ -28381,7 +28378,103 @@
         "name": "Lake District",
         "altLabel": "",
         "disambiguationHint": "popular holiday destination in North West England"
-    }
+    },
+	{
+        "id": "/ldp/64f064c8-ee94-4d9f-bb16-fcaf561ae293",
+        "name": "Church of Scotland",
+        "altLabel": "",
+        "disambiguationHint": "presbyterian church decisively shaped by the Scottish Reformation"
+    },
+	{
+        "id": "/ldp/b483b761-e5dc-4a56-a68f-68e64dd67664",
+        "name": "Savings",
+        "altLabel": "",
+        "disambiguationHint": "income not spent, for example in a bank account"
+    },
+	{
+        "id": "/ldp/e6ecdb52-33d9-4e7e-a3a2-62f267827de2",
+        "name": "Personal investment",
+        "altLabel": "",
+        "disambiguationHint": "putting money into an asset with the expectation of capital appreciation"
+    },
+	{
+        "id": "/ldp/705d6c3a-77a7-456e-8036-4c525352ac54",
+        "name": "ISAs",
+        "altLabel": "Individual Savings Accounts",
+        "disambiguationHint": "a retail investment arrangement available in the UK that qualifies for favourable tax status"
+    },
+	{
+        "id": "/ldp/4cb5b3b0-5c37-4d81-9939-304a2f828294",
+        "name": "Mortgages",
+        "altLabel": "",
+        "disambiguationHint": "loan for purchase of property"
+    },
+	{
+        "id": "/ldp/fdfad8f4-17ee-4c25-b2d5-966bab9c165b",
+        "name": "Insurance",
+        "altLabel": "",
+        "disambiguationHint": "the equitable transfer of the risk of a loss from one entity to another in exchange for payment"
+    },
+	{
+        "id": "/ldp/a7972bb1-f9d4-4fe7-b250-91bb784258ed",
+        "name": "Car Insurance",
+        "altLabel": "Vehicle insurance",
+        "disambiguationHint": "insurance purchased for cars and other road vehicles"
+    },
+	{
+        "id": "/ldp/dcd90093-a64f-4cc7-b8be-ed691bdf67d1",
+        "name": "Household Insurance",
+        "altLabel": "",
+        "disambiguationHint": "property insurance that covers a private residence"
+    },
+	{
+        "id": "/ldp/cfdd109b-4650-41ee-a067-327a893ef4da",
+        "name": "Personal debt",
+        "altLabel": "Consumer debt",
+        "disambiguationHint": "outstanding debt of private individuals"
+    },
+	{
+        "id": "/ldp/18897bb7-2f30-4636-ba2f-5fc9c665bd2c",
+        "name": "Credit cards",
+        "altLabel": "",
+        "disambiguationHint": "a payment card issued to users as a system of payment"
+    },
+	{
+        "id": "/ldp/3e640de7-554a-40c4-bee7-ecc80e6f17c5",
+        "name": "UK taxes",
+        "altLabel": "",
+        "disambiguationHint": "payments of tax to UK central government and local government"
+    },
+	{
+        "id": "/ldp/b25362c8-6e6e-4015-a5c3-c6864eb8fe8b",
+        "name": "Corporate taxation",
+        "altLabel": "",
+        "disambiguationHint": "tax levied on the profits made by companies"
+    },
+	{
+        "id": "/ldp/8f65a9ca-5584-464b-9810-e681ce3fe95e",
+        "name": "Stock markets",
+        "altLabel": "",
+        "disambiguationHint": "the aggregation of buyers and sellers of stocks or shares"
+    },
+	{
+        "id": "/ldp/c34824bf-225d-4efa-ab84-53e95d40656d",
+        "name": "Currency markets",
+        "altLabel": "",
+        "disambiguationHint": "global decentralized market for the trading of currencies"
+    },
+	{
+        "id": "/ldp/0c407425-e843-4f7d-985a-fdad37c5da3d",
+        "name": "Office for National Statistics",
+        "altLabel": "ONS",
+        "disambiguationHint": "the executive office of the UK Statistics Authority"
+    },
+	{
+        "id": "/cps/newsbeat/front_page",
+        "name": "Newsbeat",
+        "altLabel": "",
+        "disambiguationHint": "the BBC News Service for under 24s"
+    }	
 ]
 
 
