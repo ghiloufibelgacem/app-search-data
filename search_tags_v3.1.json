@@ -27401,223 +27401,223 @@
         "disambiguationHint": "Politician"
     },	
     {
-        "id": "/ldp/de96e227-7e77-974f-aab2-2e37598c5cc2",
+        "id": "/cps/sport/football/teams/aberdeen",
         "name": "Aberdeen F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/6d397eab-9d0d-b84a-a746-8062a76649e5",
+        "id": "/cps/sport/football/celtic",
         "name": "Celtic F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/28028aab-5b3f-0e41-99dd-bca1c431d27b",
+        "id": "/cps/sport/football/teams/dundee",
         "name": "Dundee F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/8a535cd8-2260-1a49-8fb2-62f8e7b54ffc",
+        "id": "/cps/sport/football/teams/dundee-united",
         "name": "Dundee United F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/aad59b59-891c-a54c-bff9-bef648c06766",
+        "id": "/cps/sport/football/teams/hamilton-academical",
         "name": "Hamilton Academical F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/c2995909-a4ed-bc4d-b659-c56c1dcf65dc",
+        "id": "/cps/sport/football/teams/inverness-caledonian-thistle",
         "name": "Inverness Caledonian Thistle F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/aabd5eb3-73c0-6b47-a00d-0b0d6531acbc",
+        "id": "/cps/sport/football/teams/kilmarnock",
         "name": "Kilmarnock F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/11f60fdb-df70-3348-a54d-6a7bcda03b8d",
+        "id": "/cps/sport/football/teams/motherwell",
         "name": "Motherwell F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/4b054c51-dff4-a243-a876-fc6595124b47",
+        "id": "/cps/sport/football/teams/partick-thistle",
         "name": "Partick Thistle F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/88ea67d2-4ee7-ac4c-956a-470565f83cf1",
+        "id": "/cps/sport/football/teams/ross-county",
         "name": "Ross County F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/e0bd00b9-6ae5-1e43-af34-71fde286da18",
+        "id": "/cps/sport/football/teams/st-johnstone",
         "name": "St Johnstone F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/7c461293-7845-3e49-a7bf-96b2c3f6de43",
+        "id": "/cps/sport/football/teams/st-mirren",
         "name": "St Mirren F.C.",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
-        "id": "/ldp/c4285a9a-9865-2343-af3a-8653f7b70734",
-        "name": "Arsenal F.C.",
+        "id": "/cps/sport/football/teams/arsenal",
+        "name": "Arsenal",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/9ce8f75f-4dc0-0f46-8e1b-742513527baf",
-        "name": "Aston Villa  F.C.",
+        "id": "/cps/sport/football/teams/aston-villa",
+        "name": "Aston Villa",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/279a3dc2-9195-264d-be3e-2a52bb61d4fe",
+        "id": "/cps/sport/football/teams/burnley",
         "name": "Burnley F.C.",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/2acacd19-6609-1840-9c2b-b0820c50d281",
+        "id": "/cps/sport/football/teams/chelsea",
         "name": "Chelsea F.C.",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/eb21087f-1dd7-fd4e-9816-d89ccff84cca",
+        "id": "/cps/sport/football/teams/crystal-palace",
         "name": "Crystal Palace F.C.",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/48287aac-b015-1d4e-9c4e-9b8abac03789",
+        "id": "/cps/sport/football/teams/everton",
         "name": "Everton F.C.",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/10786d02-d602-084f-bfb5-3198a9bebfe7",
-        "name": "Hull City F.C.",
+        "id": "/cps/sport/football/teams/hull-city",
+        "name": "Hull City",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/ff55aea0-83d7-834c-afc0-d21045f561e9",
-        "name": "Leicester City F.C.",
+        "id": "/cps/sport/football/teams/leicester-city",
+        "name": "Leicester City",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/8df31a76-4c22-5b40-9f0d-78b34dfb26fa",
+        "id": "/cps/sport/football/teams/liverpool",
         "name": "Liverpool F.C.",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/4bdbf21d-d1ad-7147-ab08-612cd0dc20b4",
-        "name": "Manchester City F.C.",
+        "id": "/cps/sport/football/teams/manchester-city",
+        "name": "Manchester City",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/90d9a818-850b-b64f-9474-79e15a0355b8",
-        "name": "Manchester United F.C.",
+        "id": "/cps/sport/football/teams/manchester-united",
+        "name": "Manchester United",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/34032412-5e2a-324d-bb3e-d0d4b16df2d4",
-        "name": "Newcastle United F.C.",
+        "id": "/cps/sport/football/teams/newcastle-united",
+        "name": "Newcastle United",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/81f6a64f-def0-0d40-bc3a-36dab5472f64",
-        "name": "Queens Park Rangers F.C.",
+        "id": "/cps/sport/football/teams/queens-park-rangers",
+        "name": "Queens Park Rangers",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/6780f83f-a17a-e641-8ec8-226c285a5dbb",
+        "id": "/cps/sport/football/teams/southampton",
         "name": "Southampton F.C.",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/ff3ad258-564a-3d46-967a-cefa4e65cfea",
-        "name": "Stoke City F.C.",
+        "id": "/cps/sport/football/teams/stoke-city",
+        "name": "Stoke City",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/d5a95ba9-efe6-aa4e-afc4-9adc5f786e58",
+        "id": "/cps/sport/football/teams/sunderland",
         "name": "Sunderland F.C.",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/98105d9f-b1db-0547-b8c7-581abf30c7e9",
-        "name": "Swansea City F.C.",
+        "id": "/cps/sport/football/teams/swansea-city",
+        "name": "Swansea City",
         "altLabel": "",
         "disambiguationHint": "Welsh Football Team"
     },
     {
-        "id": "/ldp/edc20628-9520-044d-92c3-fdec473457be",
-        "name": "Tottenham Hotspur F.C.",
+        "id": "/cps/sport/football/teams/tottenham-hotspur",
+        "name": "Tottenham Hotspur",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/7f6edf4a-76f6-4b49-b16b-ff1e232eeb18",
-        "name": "West Bromwich Albion F.C.",
+        "id": "/cps/sport/football/teams/west-bromwich-albion",
+        "name": "West Bromwich Albion",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/1fa3a0d0-1a1d-b24a-84a0-ae4607f2123a",
-        "name": "West Ham United F.C.",
+        "id": "/cps/sport/football/teams/west-ham-united",
+        "name": "West Ham United",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
-        "id": "/ldp/5cd4682a-7643-f445-8b1f-bcbaf450bc89",
+        "id": "/cps/sport/football/premier-league",
         "name": "Premier League",
         "altLabel": "",
         "disambiguationHint": "English football competition"
     },
     {
-        "id": "/ldp/9631e5b8-6068-f74e-a4f0-bf267ce2bc21",
+        "id": "/cps/sport/football/championship",
         "name": "Championship",
         "altLabel": "",
         "disambiguationHint": "English football competition"
     },
     {
-        "id": "/ldp/030b5eaf-15db-3e4e-bac9-a7789892f436",
+        "id": "/cps/sport/football/league-one",
         "name": "League One",
         "altLabel": "",
         "disambiguationHint": "English football competition"
     },
     {
-        "id": "/ldp/71d1288c-d1ea-6a4a-bd87-237dbb9e6470",
+        "id": "/cps/sport/football/league-two",
         "name": "League Two",
         "altLabel": "",
         "disambiguationHint": "English football competition"
     },
     {
-        "id": "/ldp/ebca7141-e8ba-0e40-bba9-d0864e29bc1f",
+        "id": "/cps/sport/football/scottish-premiership",
         "name": "Scottish Premiership",
         "altLabel": "",
         "disambiguationHint": "Football competition"
@@ -28362,22 +28362,22 @@
         "disambiguationHint": "trials of British citizens charged with terror-related offences"
     },	
 	{
-        "id": "/ldp/",
+        "id": "/ldp/a2f8bbda-9d4b-430d-847a-a1620d117c8d",
         "name": "Doping",
         "altLabel": "",
-        "disambiguationHint": ""
+        "disambiguationHint": "use of drugs to enhance performance, usually in sports"
     },	
 	{
-        "id": "/ldp/",
-        "name": "Arab Spring",
-        "altLabel": "",
-        "disambiguationHint": ""
+        "id": "/ldp/43f93481-f582-4f30-9228-2f6f1268a1cb",
+        "name": "Arab Uprisings",
+        "altLabel": "Arab Spring",
+        "disambiguationHint": "wave of demonstrations and protests, riots, and civil wars in the Arab world that began on 18 December 2010"
     },	
 	{
-        "id": "/ldp/",
+        "id": "/ldp/508bf6a4-c9eb-4eb1-b33a-d7a7d0851b6a",
         "name": "Prosthetics",
         "altLabel": "",
-        "disambiguationHint": ""
+        "disambiguationHint": "artificial device that replaces a missing body part"
     }
 ]
 
