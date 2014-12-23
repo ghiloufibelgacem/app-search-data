@@ -27402,73 +27402,73 @@
     },	
     {
         "id": "/cps/sport/football/teams/aberdeen",
-        "name": "Aberdeen F.C.",
+        "name": "Aberdeen",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/celtic",
-        "name": "Celtic F.C.",
+        "name": "Celtic",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/dundee",
-        "name": "Dundee F.C.",
+        "name": "Dundee",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/dundee-united",
-        "name": "Dundee United F.C.",
+        "name": "Dundee United",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/hamilton-academical",
-        "name": "Hamilton Academical F.C.",
+        "name": "Hamilton Academical",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/inverness-caledonian-thistle",
-        "name": "Inverness Caledonian Thistle F.C.",
+        "name": "Inverness Caledonian Thistle",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/kilmarnock",
-        "name": "Kilmarnock F.C.",
+        "name": "Kilmarnock",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/motherwell",
-        "name": "Motherwell F.C.",
+        "name": "Motherwell",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/partick-thistle",
-        "name": "Partick Thistle F.C.",
+        "name": "Partick Thistle",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/ross-county",
-        "name": "Ross County F.C.",
+        "name": "Ross County",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/st-johnstone",
-        "name": "St Johnstone F.C.",
+        "name": "St Johnstone",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
     {
         "id": "/cps/sport/football/teams/st-mirren",
-        "name": "St Mirren F.C.",
+        "name": "St Mirren",
         "altLabel": "",
         "disambiguationHint": "Scottish Football Team"
     },
@@ -27486,25 +27486,25 @@
     },
     {
         "id": "/cps/sport/football/teams/burnley",
-        "name": "Burnley F.C.",
+        "name": "Burnley",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
         "id": "/cps/sport/football/teams/chelsea",
-        "name": "Chelsea F.C.",
+        "name": "Chelsea",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
         "id": "/cps/sport/football/teams/crystal-palace",
-        "name": "Crystal Palace F.C.",
+        "name": "Crystal Palace",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
     {
         "id": "/cps/sport/football/teams/everton",
-        "name": "Everton F.C.",
+        "name": "Everton",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
@@ -27522,7 +27522,7 @@
     },
     {
         "id": "/cps/sport/football/teams/liverpool",
-        "name": "Liverpool F.C.",
+        "name": "Liverpool",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
@@ -27552,7 +27552,7 @@
     },
     {
         "id": "/cps/sport/football/teams/southampton",
-        "name": "Southampton F.C.",
+        "name": "Southampton",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
@@ -27564,7 +27564,7 @@
     },
     {
         "id": "/cps/sport/football/teams/sunderland",
-        "name": "Sunderland F.C.",
+        "name": "Sunderland",
         "altLabel": "",
         "disambiguationHint": "English Football Team"
     },
