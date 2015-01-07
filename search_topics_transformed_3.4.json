@@ -2154,7 +2154,6 @@
 { "id" : "/ldp/a2360055-d13e-416c-9689-c0c3a3ba7346", "name" : "Rita Ora", "dis" : "Music Artist"},
 { "id" : "/ldp/31b46c2c-af9a-4088-93d4-7be2c988c231", "name" : "Bruno Mars", "dis" : "Music Artist"},
 { "id" : "/ldp/179ecdbb-4368-4dcd-abb4-625960e87bc9", "name" : "Lil Wayne", "dis" : "American rapper"},
-{ "id" : "/ldp/3c408d3c-dd44-46c5-a264-e898557ec5de", "name" : "Big Sean", "dis" : "Music Artist"},
 { "id" : "/ldp/32bdf4c0-e594-4c2c-8289-ae8c6d7bce4b", "name" : "Kanye West", "dis" : "Music Artist"},
 { "id" : "/ldp/43153075-c5e5-4d35-b4ab-5299ecfec57f", "name" : "Nicki Minaj", "dis" : "Music Artist"},
 { "id" : "/ldp/754703c9-b578-4ba5-bce3-4ca3cacf7ab2", "name" : "Ben Affleck", "dis" : "Actor"},
@@ -4723,5 +4722,7 @@
 { "id" : "/ldp/57b6ce32-e2b5-4f72-b70a-0f64cb95a93e", "name" : "CES 2015", "dis" : "Consumer Electronics Show"},
 { "id" : "/ldp/c7b0f4cc-5868-4e8b-ad1a-c4c24ad3d2af", "name" : "AirAsia flight QZ8501", "dis" : "AirAsia flight travelling from Indonesia to Singapore has lost contact with air traffic control with 162 people on board"},
 { "id" : "/ldp/b7258604-1f64-4a86-9687-d393c317ce2f", "name" : "Stranded Solent ship", "dis" : "Jan 4th 2015 car transporter ran aground in the Solent"},
-{ "id" : "/ldp/d2469673-2d14-4614-9b96-6815489cda06", "name" : "Glasgow bin lorry crash", "dis" : "six people killed after a bin lorry crashes into pedestrians in George Square in central Glasgow"}
+{ "id" : "/ldp/d2469673-2d14-4614-9b96-6815489cda06", "name" : "Glasgow bin lorry crash", "dis" : "six people killed after a bin lorry crashes into pedestrians in George Square in central Glasgow"},
+{ "id" : "/ldp/7b285a66-2fca-4d1c-8841-a35d46343276", "name" : "Charlie Hebdo attack", "dis" : "attack on the offices of French satirical magazine Charlie Hebdo in Paris"},
+{ "id" : "/ldp/a84c0242-be73-4f12-a673-3bbdf1f9bc95", "name" : "Boston bombings trial", "dis" : "trial of Dzhokhar Tsarnaev accused of the Boston Marathon bombing"}
 ]}
