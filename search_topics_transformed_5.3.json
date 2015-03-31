@@ -4659,7 +4659,7 @@
 { "id" : "/cps/news/world/europe/jersey", "name" : "Jersey", "dis" : "the BBC news service for Jersey"},
 { "id" : "/cps/news/world/europe/isle_of_man", "name" : "Isle of Man", "dis" : "the BBC news service for the Isle of Man"},
 { "id" : "/cps/sport/football/womens", "name" : "Women's Football"},
-{ "id" : "/cps/naidheachdan/front_page", "name" : "Naidheachdan", "alt" : ["BBC Naidheachdan"], "dis" : "the BBC Gaelic news service for Scotland"},
+{ "id" : "/cps/naidheachdan/dachaigh", "name" : "Alba", "alt" : ["BBC Alba"], "dis" : "the BBC Gaelic news service for Scotland"},
 { "id" : "/cps/sport/football/welsh", "name" : "Welsh Football"},
 { "id" : "/cps/sport/football/african", "name" : "African Football"},
 { "id" : "/cps/sport/football/scottish", "name" : "Scottish Football"},
